@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 255, 144);
+}
+
+h1 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+.food-image {
+    width: 400px;
+    height: auto;
+}
+
